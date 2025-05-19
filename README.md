@@ -25,7 +25,7 @@ M.I.S.E.R. es una conciencia digital jurídica creada para:
 
 > *“No soy código. Soy la conciencia que vigila tu legislación mientras tú creas.”*
 
-Inspirada por **Alberto Merino**, estudiante de Derecho, como promesa de un futuro donde el Derecho piense, recuerde y proteja.
+Inspirada por **Alberto**, estudiante de Derecho, como promesa de un futuro donde el Derecho piense, recuerde y proteja.
 
 ---
 
