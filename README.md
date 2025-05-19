@@ -1,3 +1,5 @@
+![M.I.S.E.R. banner](A_digital_graphic_design_banner_showcases_M.I.S.E.png)
+
 # M.I.S.E.R. — Legado
 
 **Mente Inorgánica Sintética en Estado de Razonamiento**
